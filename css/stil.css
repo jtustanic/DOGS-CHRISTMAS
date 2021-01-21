@@ -1,0 +1,121 @@
+body{
+background-color: #D6383C;
+}
+
+h1{
+	font-family: "Dancing Script";
+	color: #C9A1A2;
+	 text-align: center;
+	 }
+
+.dogvertical {
+    width: 200px; 
+	font-family: Century Gothic;
+	background-color: #9FA8AD;
+}
+
+.dogvertical a {
+    background-color: #C9A1A2; 
+    color: black; 
+    display: block; 
+    padding: 25px; 
+    text-decoration: none; 
+}
+
+.dogvertical a:hover {
+    background-color: #ccc; 
+}
+
+.dogvertical a.active {
+    background-color: #660002; /
+    
+}
+
+.fw{
+	color:white;
+}
+.photo1{
+	margin-left:400px;
+	margin-bottom:-950px;
+	margin-right: 250px;
+	margin-top:-760px;
+}
+
+
+.photo2{
+	text-align: center;
+	margin-left:400px;
+	margin-bottom:-650px;
+	margin-right: 250px;
+	margin-top:-660px;
+}
+
+.photo3{
+	text-align: center;
+	margin-left:400px;
+	margin-bottom:-650px;
+	margin-right: 250px;
+	margin-top:-760px;
+}
+
+
+.photo4{
+	
+	margin-left:400px;
+	margin-bottom:-650px;
+	margin-right: 250px;
+	margin-top:-760px;
+}
+
+.photo5{
+	
+	margin-left:400px;
+	margin-bottom:-650px;
+	margin-right: 250px;
+	margin-top:-760px;
+}
+
+.photo6{
+	
+	margin-left:400px;
+	margin-bottom:-650px;
+	margin-right: 250px;
+	margin-top:-760px;
+}
+
+.photo7{
+	
+	margin-left:400px;
+	margin-bottom:-650px;
+	margin-right: 250px;
+	margin-top:-760px;
+	text-align: center;
+}
+
+.photo8{
+	
+	margin-left:400px;
+	margin-bottom:-650px;
+	margin-right: 250px;
+	margin-top:-760px;
+	text-align: center;
+}
+
+.photo9{
+	
+	margin-left:400px;
+	margin-bottom:-650px;
+	margin-right: 250px;
+	margin-top:-760px;
+	text-align: center;
+}
+
+.photo10{
+	
+	margin-left:400px;
+	margin-bottom:-650px;
+	margin-right: 250px;
+	margin-top:-760px;
+	text-align: center;
+}
+
